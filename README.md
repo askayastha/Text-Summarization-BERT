@@ -1,1 +1,1 @@
-# text-summarization-bert-rnn
+# Text Summarization with BERT and RNNs
